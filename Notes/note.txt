@@ -1,0 +1,26 @@
+Bundler:-
+    - Webpack
+    - Parcel
+    - Vite
+
+We are using parcel for igniting our app.
+
+two types of dependencies are there:-
+ - dev dependencies. when we are developing our app the dev dependencies are used.
+ - normal dependencies..
+
+ npm install -D parcel (here -D dev dependencies)
+
+ "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+    ^ automatically updates the minor version
+    ~ it will automatically updates the major version
+  caret and tilde in package.json version
+
+  what is package.json     ???
+  what is package.lock.json      ???
+
+  package.json vs package.lock.json
+
+transitive dependencies -> parcel have some dependencies and the dependencies have their own dependencies....

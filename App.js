@@ -14,6 +14,8 @@ const parent = React.createElement(
   ])
 );
 
+console.log(parent);
+
 const heading = React.createElement(
   "h1",
   { id: "heading" },

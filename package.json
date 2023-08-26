@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akhtar Khan.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhtark20/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Akhtar Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhtark20/namaste-react/issues"
+  },
+  "homepage": "https://github.com/akhtark20/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}

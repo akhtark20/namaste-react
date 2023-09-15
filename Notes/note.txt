@@ -23,4 +23,6 @@ two types of dependencies are there:-
 
   package.json vs package.lock.json
 
+  integrity in package.lock.json for checking the exact version of a particular package (dev == prod)
+
 transitive dependencies -> parcel have some dependencies and the dependencies have their own dependencies....

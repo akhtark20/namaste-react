@@ -26,3 +26,25 @@ two types of dependencies are there:-
   integrity in package.lock.json for checking the exact version of a particular package (dev == prod)
 
 transitive dependencies -> parcel have some dependencies and the dependencies have their own dependencies....
+
+what is npx ?
+npx parcel index.html
+npm means installing a package..
+npx means executing a package.
+
+ways to get react into our app...!
+1. cdn
+2. npm install react..
+
+cdn links is not a preferred way..!
+
+// React Element is an Object
+// Learn about React.createElement in react....
+// this can be a single child or and array of childrens... now in array it behaves like siblings...
+// always put your app js file after importing the react cdn..
+// cross origin
+// what ever inside the root will be replaced by the render function..
+
+Browserslist - read about it.
+
+

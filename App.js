@@ -1,9 +1,5 @@
-// React Element is an Object
-// Learn about React.createElement in react....
-// this can be a single child or and array of childrens... now in array it behaves like siblings...
-// always put your app js file after importing the react cdn..
-// cross origin
-// what ever inside the root will be replaced by the render function..
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 const parent = React.createElement(
   "div",
